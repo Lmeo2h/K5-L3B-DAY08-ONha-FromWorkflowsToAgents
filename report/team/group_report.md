@@ -6,7 +6,7 @@ Tối đa 5 trang ngoài phụ lục. Số liệu lấy từ file trong `src/rep
 
 - Tên nhóm: ONha
 - Thành viên: xem `TEAM.md` (nhóm 1 thành viên vì đang nghỉ phép để khám nvqs: Nguyễn Tấn Châu — MSSV `2A202603846`, lớp `L3B`)
-- Commit chốt (trùng `report/team/decision_adr.md`): `034c6c4`
+- Commit chốt (trùng `report/team/decision_adr.md`): `a83e390`
 
 ## 2. Mục tiêu và cách tiếp cận
 

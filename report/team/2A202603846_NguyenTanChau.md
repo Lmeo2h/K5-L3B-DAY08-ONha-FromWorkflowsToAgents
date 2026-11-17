@@ -22,7 +22,7 @@ Là nhóm 1 thành viên (`ONha`, lớp `L3B`), mình phụ trách toàn bộ c�
 
 ## 4. Bằng chứng
 
-- Commit gốc làm việc: `034c6c4` (và commit hoàn thiện bài nộp).
+- Commit gốc làm việc: `a83e390` (và commit hoàn thiện bài nộp).
 - Test đã thêm: `src/tests/test_team_onha_shapes.py` (`test_ticket_injection_does_not_override_order_and_trace_is_clean`, `test_partial_prior_refund_passes_full_quote_to_host`).
 - File bằng chứng: `src/reports/benchmark.json` (run id dẫn chứng `workflow-C-001-11`), `src/reports/crash.json` (`crash_safety = 20/20`).
 

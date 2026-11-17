@@ -5,7 +5,7 @@
 - Tên nhóm: ONha
 - Lớp: L3B
 - Repo nhóm: `K5-L3B-DAY08-ONha-FromWorkflowsToAgents` (xem [SUBMISSION.md](SUBMISSION.md))
-- URL repo, nhánh nộp, commit chốt:
+- URL repo, nhánh nộp, commit chốt: https://github.com/Lmeo2h/K5-L3B-DAY08-ONha-FromWorkflowsToAgents | main | a83e390
 
 ## Thành viên
 
@@ -24,7 +24,7 @@ Gợi ý chia vai:
 
 | Người | Vai | Commit | Test đã thêm hoặc sửa |
 | --- | --- | --- | --- |
-| Nguyễn Tấn Châu | Toàn bộ (workflow, single, orchestrator, crash/eval, report) | 034c6c4 | tests/test_team_onha_shapes.py |
+| Nguyễn Tấn Châu | Toàn bộ (workflow, single, orchestrator, crash/eval, report) | a83e390 | tests/test_team_onha_shapes.py |
 
 ## Cá nhân
 
